@@ -8,5 +8,6 @@ void greet()
 
 int main()
 {
+	// greet the user
 	greet();
 }
